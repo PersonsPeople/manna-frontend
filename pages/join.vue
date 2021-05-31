@@ -21,6 +21,7 @@
                     <div class="flex-2 inline-gird grid-cols-02 gap-x-4">
                         <label for="female" class="mr-1">여자</label>
                         <input type="radio" id="female" name="sex" value="woman" class="cursor-pointer transform delay-75 hover:scale-125">
+                        <div>Hello!</div>
                     </div>
                 </fieldset>
                 <button type="submit" class="block w-full text-center h-12 rounded-md bg-blue-500 text-white font-bold tracking-widset hover:bg-blue-600 hover:shadow">SIGN UP!</button>
